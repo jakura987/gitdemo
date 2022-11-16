@@ -2,7 +2,7 @@ package com.example.pojo;
 
 public class Student {
     private Integer id;
-    private String lastname;
+    private String firstname;
 
     public Integer getId() {
         return id;
